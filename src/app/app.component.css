@@ -1,0 +1,6 @@
+img {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  border: 4px dotted springgreen;
+}

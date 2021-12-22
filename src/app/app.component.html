@@ -1,0 +1,10 @@
+<qr-scanner
+        [debug]="false"
+        [canvasWidth]="360"
+        [canvasHeight]="480" 
+        [stopAfterScan]="false"
+        [updateTime]="500"> 
+</qr-scanner>
+
+<img #img [style.display]="img.src ? 'block' : 'none'">
+<pre *ngIf="log.length">{{log | json}}</pre>
