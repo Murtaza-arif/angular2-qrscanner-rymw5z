@@ -7,7 +7,7 @@
     "core-js": "2.5.5",
     "zone.js": "0.8.26",
     "rxjs-compat": "6.2.2",
-    "@angular/core": "6.0.0",
+    "@angular/core": "10.2.5",
     "@angular/forms": "6.0.0",
     "webrtc-adapter": "6.3.2",
     "@angular/common": "6.0.0",
